@@ -4,7 +4,7 @@
 #include <math.h>
 
 int main() {
-double num1, num2, num3, sum;
+double num1, num2, num3, sum = 0;
     // Write C code here
     printf("Enter Any Three Numbers: ");
     
